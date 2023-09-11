@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://rakib3004.github.io/nbdev-hello-world"
+  description: "this is a experimental project"
+  repo-branch: main
+  repo-url: "https://github.com/rakib3004/nbdev-hello-world"
